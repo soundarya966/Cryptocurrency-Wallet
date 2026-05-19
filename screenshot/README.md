@@ -1,3 +1,3 @@
 # Project Output
 
-![Cryptocurrency Wallet Output](images/cryptocurrency-wallet-output.png)
+![Cryptocurrency Wallet Output](screenshot/cryptocurrency-wallet-output.png)
