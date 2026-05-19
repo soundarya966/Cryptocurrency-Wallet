@@ -99,32 +99,6 @@ Main.java
 
 ---
 
-# Sample Output
-
-```text
-Wallet Created Successfully
-
-Alice Wallet Address: 8f2d9ab12c
-Bob Wallet Address: a8c3d71fe9
-
-Initial Balances:
-Alice: 1000.0
-Bob: 1000.0
-
-Transaction Successful!
-
-Updated Balances:
-Alice: 800.0
-Bob: 1200.0
-
-Transaction History:
-Sender: Alice
-Receiver: Bob
-Amount: 200.0
-```
-
----
-
 # Learning Outcomes
 
 This project helps understand:
